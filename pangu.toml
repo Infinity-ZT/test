@@ -1,0 +1,6 @@
+[package]
+name = "helloext"
+type = "plugin"
+
+[provides]
+macro_posts = ["ping"]
